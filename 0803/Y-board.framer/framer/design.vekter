@@ -1,0 +1,200 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "8]&@uaB;",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "IJbl4&5o",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "8]&@uaB;",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "type" : "apple-iphone-7-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "ImageNode",
+            "id" : "q|=>K{.,",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : true,
+            "imageBackgroundSize" : "Cover",
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "RectangleNode",
+                "id" : "Ai,#a2Ag",
+                "fillColor" : "rgb(255, 255, 255)",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 41,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.184,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "fillEnabled" : true,
+                "parentid" : "q|=>K{.,",
+                "borderRight" : 1,
+                "name" : null,
+                "height" : 23,
+                "borderWidth" : 1,
+                "top" : 180,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : null,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.2871064467766117,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 0,
+                "targetName" : null,
+                "bottom" : null,
+                "width" : 56
+              },
+              {
+                "__class" : "SVGNode",
+                "fillType" : "color",
+                "originalFilename" : "search",
+                "centerAnchorX" : 0.36,
+                "parentid" : "q|=>K{.,",
+                "rotation" : 0,
+                "locked" : false,
+                "intrinsicWidth" : 24,
+                "top" : null,
+                "right" : null,
+                "intrinsicHeight" : 24,
+                "name" : "searchIcon",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "aspectRatioLocked" : true,
+                "id" : "FQSzhwI5",
+                "svg" : "<?xml version=\"1.0\" standalone=\"no\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z\"><\/path><\/svg>",
+                "constraintsLocked" : false,
+                "left" : 123,
+                "bottom" : null,
+                "height" : 24,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "width" : 24,
+                "widthFactor" : null,
+                "targetName" : "searchIcon",
+                "heightFactor" : null,
+                "fillColor" : "black",
+                "opacity" : 1,
+                "centerAnchorY" : 0.5007496251874063,
+                "visible" : true
+              }
+            ],
+            "fillEnabled" : false,
+            "parentid" : "IJbl4&5o",
+            "borderRight" : 1,
+            "image" : "QjPxUBEeMX3OXGS54W2kmou80ML6BLFxJoMbww223Xz0IInLbZuvEeATCF8yUoDisTci4gvEp4Qji1qtzrw.png",
+            "name" : "bg",
+            "height" : 667,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "intrinsicWidth" : 375,
+            "borderBottom" : 1,
+            "originalFilename" : "IMG_3824.PNG",
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "intrinsicHeight" : 667,
+            "radiusTopLeft" : 0,
+            "targetName" : "bg",
+            "bottom" : null,
+            "width" : 375
+          }
+        ],
+        "height" : 667,
+        "fillType" : "color",
+        "targetName" : "iphone",
+        "fillColor" : "#ffffff",
+        "name" : "iphone"
+      }
+    ]
+  }
+}
